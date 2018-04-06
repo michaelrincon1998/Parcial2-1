@@ -1,0 +1,3 @@
+Analisis punto 1
+Se puede evidenciar por los tiempos obtenidos que el algoritmo de hermite es más efectivo que el de newton pues
+se hace uso de los splits que mejoran el tiempo del algoritmo.
